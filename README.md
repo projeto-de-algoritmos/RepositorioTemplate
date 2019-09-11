@@ -1,4 +1,19 @@
+**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+
+Temas:
+ - Grafos1
+ - Grafos2
+ - PD
+ - D&C
+ - Greed
+ - Final. 
+ 
+ **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: GRAFOS2 - Labirinto do Minotauro !!**
+ 
+ (Apague essa seção)
+
 # NomedoProjeto
+
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
@@ -9,7 +24,10 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. Se necessário, coloque imagens e gifs.
+Descreva os objetivos do seu projeto e como ele funciona. 
+
+## Screenshots
+Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
