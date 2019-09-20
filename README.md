@@ -6,9 +6,9 @@ Temas:
  - PD
  - D&C
  - Greed
- - Final. 
+ - Final 
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: GRAFOS2 - Labirinto do Minotauro !!**
+ **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
  
  (Apague essa seção)
 
